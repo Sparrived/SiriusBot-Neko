@@ -1,0 +1,7 @@
+[project]
+name = "siriusbot-neko"
+version = "0.1.0"
+description = "siriusbot neko is a qq bot based on ncatbot."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
