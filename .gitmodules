@@ -1,0 +1,3 @@
+[submodule "plugins/sirius_chat_core"]
+	path = plugins/sirius_chat_core
+	url = https://github.com/Sparrived/sirius_chat_core.git
