@@ -1,3 +1,6 @@
 [submodule "plugins/sirius_chat_core"]
 	path = plugins/sirius_chat_core
 	url = https://github.com/Sparrived/sirius_chat_core.git
+[submodule "plugins/ip_checker"]
+	path = plugins/ip_checker
+	url = https://github.com/Sparrived/ncatbot-plugin-ip-checker.git
